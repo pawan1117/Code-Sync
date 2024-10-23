@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/f4bb77b5-52fa-4f34-9b5f-17f52dbdb311
 
 
 
-**Link to the web app:** [https://beamish-gnome-aa9a64.netlify.app/](https://beamish-gnome-aa9a64.netlify.app/) <br/>
+
 
 <br/>
 
